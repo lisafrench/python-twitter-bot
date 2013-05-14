@@ -1,0 +1,8 @@
+*.pyc
+*.cfg
+*.txt
+venv
+bot.cfg
+bot_log.txt
+bot_latest.txt
+python-twitter-0.8.2
